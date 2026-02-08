@@ -1,4 +1,4 @@
-# NLP Assignment 3 – Large Language Models (LLMs)
+# NLP – Large Language Models (LLMs)
 
 This project demonstrates the use of **Large Language Models (LLMs)** for Natural Language Processing tasks using pretrained transformer models.
 
